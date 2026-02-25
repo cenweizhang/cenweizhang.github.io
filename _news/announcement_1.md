@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-04-01 12:00:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Joined <a href="https://dolphin-ai.cn/#/home">Dolphin AI</a> as a research algorithm intern working on AI for Medical Imaging. 🐬
