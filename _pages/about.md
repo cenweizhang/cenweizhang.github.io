@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  "To seek and to understand is the meaning of life." 
-  — In tribute to the Nomai, *Outer Wilds*
+  To seek and to understand is the meaning of life.
 
 profile:
   align: right
