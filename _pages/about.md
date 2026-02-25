@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  "To seek and to understand is the meaning of life." 
+  — In tribute to the Nomai, *Outer Wilds*
 
 profile:
   align: right
@@ -27,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a senior undergraduate at Shanghai Jiao Tong University, focusing on pruning strategies for segmentation models (e.g. SAM) of medical imaging data such as Polyps. as my graduation research under the supervision of Asst. Prof. [Suncheng Xiang](https://jeremyxsc.github.io/). I am also working on Generative Modeling (e.g. Flow, diffusion, AR) and how generative On-manifold flows establish a new explanatory paradigm for Explainable AI, which is guiding in detail and pleasantly by Asst. Prof. [Lei You](https://www.leiyou.me/) and Dr. [Lin Zhu](https://zhumumu0216.github.io/).
+I am a senior undergraduate at Shanghai Jiao Tong University, focusing on pruning strategies for segmentation models (e.g., SAM) of medical imaging data such as polyps. This work serves as my graduation research under the supervision of Asst. Prof. [Suncheng Xiang](https://jeremyxsc.github.io/). I am also working on Generative Modeling (e.g., Flow, Diffusion, AR) and how generative on-manifold flows establish a new explanatory paradigm for Explainable AI, which is guided in detail and pleasantly by Asst. Prof. [Lei You](https://www.leiyou.me/) and Dr. [Lin Zhu](https://zhumumu0216.github.io/).
 
-After SJTU, I am about to pursue an MSc in Information Engineering at The Chinese University of Hong Kong. With a humble and open attitude, I am digging myself on AI4Med and flow-based generative modeling. Currently I am familiarizing myself with various cutting-edge generative models and their mathematical foundations and interested in extending myself on Embodied AI (e.g. Embodied Brain Algorithm).
+After SJTU, I will pursue an MSc in Information Engineering at The Chinese University of Hong Kong. With a humble and open attitude, I am delving into AI4Med and flow-based generative modeling. Currently, I am familiarizing myself with various cutting-edge generative models and their mathematical foundations, and I am interested in extending my research into Embodied AI (e.g., Embodied Brain Algorithms).
 
-Besides my work and studies, I also have a passion for citywalk, hiking and genshin impact！
+Besides my work and studies, I also have a passion for citywalking, hiking, and Genshin Impact!
