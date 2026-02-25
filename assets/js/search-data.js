@@ -405,11 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-joined-dolphin-ai-as-a-research-algorithm-intern-working-on-ai-for-medical-imaging",
+            },},{id: "news-joined-dolphin-ai-as-a-research-algorithm-intern-working-on-ai-for-medical-imaging",
           title: 'Joined Dolphin AI as a research algorithm intern working on AI for Medical...',
+          description: "",
+          section: "News",},{id: "news-received-an-offer-for-an-msc-in-information-engineering-at-chinese-university-of-hong-kong-starting-sep-2026",
+          title: 'Received an offer for an MSc in Information Engineering at Chinese University of...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
