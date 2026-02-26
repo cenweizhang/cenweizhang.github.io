@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined <a href="https://dolphin-ai.cn/#/home">Dolphin AI</a> as a research algorithm intern working on AI for Medical Imaging. 
+Joined <a href="https://dolphin-ai.cn/#/home">Dolphin AI</a> as a research algorithm intern working on AI for Medical Imaging.
