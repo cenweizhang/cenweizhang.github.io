@@ -74,12 +74,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/code/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-dolphin-ai-as-a-research-algorithm-intern-working-on-ai-for-medical-imaging",
+      },{id: "news-joined-dolphin-ai-as-a-research-algorithm-intern-working-on-ai-for-medical-imaging",
           title: 'Joined Dolphin AI as a research algorithm intern working on AI for Medical...',
           description: "",
           section: "News",},{id: "news-received-an-offer-for-an-msc-in-information-engineering-at-cuhk-starting-sep-2026",
