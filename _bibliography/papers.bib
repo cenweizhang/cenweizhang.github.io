@@ -11,6 +11,6 @@
   preview  = {OTFlowSHAP_overview.png},
   pdf      = {Axiomatic_On_Manifold_Shapley_via_Optimal_Generative_Flows.pdf},
   code     = {https://github.com/cenweizhang/OTFlowSHAP},
-  abstract = {We propose an axiomatic framework for computing Shapley values on data manifolds using optimal generative flows, enabling more accurate feature attribution for machine learning models.},
+  abstract = {Shapley-based attribution is critical for post-hoc XAI but suffers from off-manifold artifacts due to heuristic baselines. While generative methods attempt to address this, they often introduce geometric inefficiency and discretization drift. We propose a formal theory of on-manifold Aumann-Shapley attributions driven by optimal generative flows. We prove a representation theorem establishing the gradient line integral as the unique functional satisfying efficiency and geometric axioms, notably reparameterization invariance. To resolve path ambiguity, we select the kinetic-energy-minimizing Wasserstein-2 geodesic transporting a prior to the data distribution. This yields a canonical attribution family that recovers classical Shapley for additive models and admits provable stability bounds against flow approximation errors. By reframing baseline selection as a variational problem, our method experimentally outperforms baselines, achieving strict manifold adherence via vanishing Flow Consistency Error and superior semantic alignment characterized by Structure-Aware Total Variation. },
   selected = {true}
 }
