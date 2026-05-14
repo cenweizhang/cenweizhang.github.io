@@ -1,8 +1,8 @@
 @string{aps = {American Physical Society,}}
 
-@article{zhang2026axiomatic,
+@article{zhang2026baselinestransportgeodesicsaxiomatic,
   abbr     = {arXiv},
-  title    = {Axiomatic On-Manifold Shapley via Optimal Generative Flows},
+  title    = {From Baselines to Transport Geodesics: Axiomatic Attribution via Optimal Generative Flows},
   author   = {Zhang*, Cenwei and Zhu*, Lin and Lin, Manxi and You, Lei},
   journal  = {arXiv preprint arXiv:2603.05093},
   year     = {2026},
@@ -11,6 +11,10 @@
   preview  = {OTFlowSHAP_overview.png},
   pdf      = {Axiomatic_On_Manifold_Shapley_via_Optimal_Generative_Flows.pdf},
   code     = {https://github.com/cenweizhang/OTFlowSHAP},
-  abstract = {Shapley-based attribution is critical for post-hoc XAI but suffers from off-manifold artifacts due to heuristic baselines. While generative methods attempt to address this, they often introduce geometric inefficiency and discretization drift. We propose a formal theory of on-manifold Aumann-Shapley attributions driven by optimal generative flows. We prove a representation theorem establishing the gradient line integral as the unique functional satisfying efficiency and geometric axioms, notably reparameterization invariance. To resolve path ambiguity, we select the kinetic-energy-minimizing Wasserstein-2 geodesic transporting a prior to the data distribution. This yields a canonical attribution family that recovers classical Shapley for additive models and admits provable stability bounds against flow approximation errors. By reframing baseline selection as a variational problem, our method experimentally outperforms baselines, achieving strict manifold adherence via vanishing Flow Consistency Error and superior semantic alignment characterized by Structure-Aware Total Variation. },
+  abstract = {Feature attributions often hide a critical modeling choice: they explain a prediction along a counterfactual path from a reference state to an input. Different baselines, interpolations, and generative trajectories define different paths and can therefor produce different explanations. We study this path ambiguity as a modeling problem. Our central question is whether the path can be chosen by the data-generating transport process, rather than by a hand-designed interpolation or by the sensitivity geometry of the model being explained. We separate attribution into fixed-path credit allocation and path selection. For a fixed path, we prove that the Aumann-Shapley line integral is the unique attribution rule under standard fixed-path axioms and explicit coordinate-trace regularity. For path selection, we minimize kinetic action over flows that transport a reference distribution to the data distribution, yielding a transport-geodesic attribution principle. We approximate this ideal with Rectified Flow and Reflow and derive stability bounds linking vector-field error to attribution error. Experiments show that lower-action, transport-consistent paths produce more stable and structured explanations, preserving competitive deletion faithfulness, without claiming data-manifold membership. },
   selected = {true}
+
+
+
+
 }
