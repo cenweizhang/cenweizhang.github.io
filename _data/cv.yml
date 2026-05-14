@@ -26,12 +26,21 @@ cv:
         courses: "Principles of Automatic Control"
         highlights:
           - Biomedical Image Processing.
-          - Bioinformatics.
+          - Machine Learning.
 
     Experience:
+      - company: IQuest Research
+        position: LLM algorithm intern
+        location: Shanghai
+        start_date: Apr 2026
+        end_date: Present
+        summary: LLM & Medical Imaging Analysis
+        highlights:
+          - Working&Deepseeking NOW.
+          
       - company: Dolphin AI
         position: AI Research Intern
-        location: Jiaxing, Zhejiang
+        location: Zhejiang, China
         start_date: Apr 2025
         end_date: Dec 2025
         summary: Diffusion models for Medical Imaging
@@ -44,6 +53,11 @@ cv:
         level: Proficient
         icon: fa-solid fa-hashtag
         keywords: "DiT, Autoregressive Models"
+
+      - name: AI ecosystems
+        level: Proficient
+        icon: fa-solid fa-hashtag
+        keywords: "LLM Compression, Efficient Quantization"
 
     Languages:
       - name: Chinese
