@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined <a href="[https://cuhk.edu.hk/english/](https://www.ubiquant.com/website/ai)">IQuest Research</a> as a LLM algorithm intern (Medical Track).
+Joined <a href="https://www.ubiquant.com/website/ai">IQuest Research</a> as a LLM algorithm intern (Medical Track).
