@@ -54,10 +54,10 @@ external_services:
 
 navbar_fixed: false
 footer_fixed: false
-search_enabled: false
+search_enabled: true
 socials_in_search: false
-posts_in_search: false
-bib_search: false
+posts_in_search: true
+bib_search: true
 
 # Dimensions
 max_width: 900px
