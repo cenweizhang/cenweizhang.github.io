@@ -30,7 +30,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-joined-dolphin-ai-as-a-research-algorithm-intern-working-on-ai-for-medical-imaging",
+        },{id: "post-a-test-post",
+        
+          title: "a test post",
+        
+        description: "an example of a test blog",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/test_blog/";
+          
+        },
+      },{id: "post-a-post-with-math",
+        
+          title: "a post with math",
+        
+        description: "an example of a blog post with some math",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/math/";
+          
+        },
+      },{id: "post-a-post-with-code",
+        
+          title: "a post with code",
+        
+        description: "an example of a blog post with some code",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/code/";
+          
+        },
+      },{id: "news-joined-dolphin-ai-as-a-research-algorithm-intern-working-on-ai-for-medical-imaging",
           title: 'Joined Dolphin AI as a research algorithm intern working on AI for Medical...',
           description: "",
           section: "News",},{id: "news-received-an-offer-for-an-msc-in-information-engineering-at-cuhk-starting-sep-2026",
