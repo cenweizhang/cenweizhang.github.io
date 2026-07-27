@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-27'
 papers:
+  m-H8Iq0AAAAJ:d1gkVwhDpl0C:
+    citations: 0
+    title: 'Best-of-Evidence: Best-of-N Selection under Partial Verification'
+    year: '2026'
   m-H8Iq0AAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: 'From Baselines to Transport Geodesics: Axiomatic Attribution via Optimal Generative Flows'
