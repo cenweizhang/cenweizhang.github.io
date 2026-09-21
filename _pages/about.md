@@ -27,13 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an incoming MSc student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/). My current research focuses on reliable MLLM reasoning, with an interest in generative modeling and medical computer vision. Before that, I earned my B.Eng. from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in summer 2026, where I studied ViTs and their interpretable internal mechanisms for medical image understanding supervised by Asst. Prof. [Suncheng Xiang](https://jeremyxsc.github.io/). 
+I am a MSc student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/), supervised by Prof. [LIEW Soung Chang](https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/) and Prof. [DU Yuyang](https://yuyangdu01.github.io/). My current research focuses on reliable self-evolving AI & recursive self-improvement on Physical AI. Besides, I also have an interest in generative modeling and medical computer vision. Meanwhile, I am working at [IQuest Research, Ubiquant](https://www.ubiquant.com/website/ai) as a LLM algorithm intern, where I have accumulated extensive AI engineering experience and improved myself in traing & reasoning models on GPU clusters.
 
-I am deeply grateful for the guidance I received from Dr. [Manxi Lin](https://mmmmimic.github.io/) and Dr. [Lin Zhu](https://zhumumu0216.github.io/). I am also fortunate to be closely and warmly mentored by Asst. Prof. [Lei You](https://www.leiyou.me/) and will have a collaboration for a long time. 
+Before that, I earned my B.Eng. from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in summer 2026, where I studied the internal mechanisms for medical image understanding supervised by Asst. Prof. [Suncheng Xiang](https://jeremyxsc.github.io/). I am also deeply grateful for the guidance I received from Dr. [Manxi Lin](https://mmmmimic.github.io/) and Dr. [Lin Zhu](https://zhumumu0216.github.io/). I am also fortunate to be closely and warmly mentored by Asst. Prof. [Lei You](https://www.leiyou.me/) and will have a collaboration for a long time. 
 
-Now, I am a LLM algorithm intern working on building native medical multimodal model and deepseeking various medical data distributions at [IQuest Research, Ubiquant](https://www.ubiquant.com/website/ai). With humility and an open mind, I hope to further explore generative models, LLM/VLM engineering, and AI4Med, and I am always open to meaningful communication and collaboration!
+With humility and an open mind, I hope to further explore RSI, LLM/VLM engineering, and AI4Med, and I am always open to meaningful communication and collaboration!
 
-Outside of research and study, I enjoy citywalking, hiking, and Genshin Impact!
+Outside of research and study, I enjoy citywalking, hiking, and Genshin Impact! 
 
 📢 **I am expected to graduate in Summer 2027 or Spring 2028, I am actively seeking opportunities as a research intern or full-time researcher. I would also be delighted to hear from you about any potential phd research opportunities.**
 
