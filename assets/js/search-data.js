@@ -72,6 +72,9 @@ ninja.data = [{
           section: "News",},{id: "news-joined-iquest-research-as-a-llm-algorithm-intern-medical-track",
           title: 'Joined IQuest Research as a LLM algorithm intern (Medical Track).',
           description: "",
+          section: "News",},{id: "news-our-paper-from-baselines-to-transport-geodesics-has-been-accepted-by-neurips-2026-this-is-my-first-accepted-paper-work-from-my-bsc-year",
+          title: 'Our paper ‘From Baselines to Transport Geodesics’ has been accepted by NeurIPS 2026!...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
