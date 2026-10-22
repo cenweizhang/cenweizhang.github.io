@@ -12,21 +12,24 @@ cv:
         area: Computer Science (Information Engineering Track)
         studyType: Master of Science
         start_date: 2026
-        end_date: 2027
+        end_date: Present
+        courses: "Reinforcement Learning"
         highlights:
-          - To be continued.
+          - AI Foundation Models, Systems and Applications.
+          - Multimedia Coding and Processing.
+          - VLA Training on Physical AI.
 
       - institution: Shanghai Jiao Tong University
         location: Shanghai, China 
-        area: Biomedical Engineering (Electronic Information Track)
         studyType: Bachelor of Engineering
         start_date: 2022
         end_date: 2026
         score: ""
-        courses: "Principles of Automatic Control"
+        courses: "Pattern Recognition and Machine Learning"
         highlights:
-          - Biomedical Image Processing.
-          - Machine Learning.
+          - Signals and Systems.
+          - Biomedical Imaging and Signal Processing.
+          - Principles of Automatic Control.
 
     Experience:
       - company: IQuest Research
@@ -34,7 +37,7 @@ cv:
         location: Shanghai
         start_date: Apr 2026
         end_date: Present
-        summary: LLM & Medical Imaging Analysis
+        summary: LLM & Medical Multimodel Analysis
         highlights:
           - Working&Deepseeking NOW.
           
@@ -54,14 +57,18 @@ cv:
         icon: fa-solid fa-hashtag
         keywords: "DiT, Autoregressive Models"
 
-      - name: AI ecosystems
+      - name: post-hoc perspective on AI explainability
         level: Proficient
         icon: fa-solid fa-hashtag
         keywords: "LLM Compression, Efficient Quantization"
 
     Languages:
-      - name: Chinese
+      - name: Mandarin
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
+
+      - name: Cantonese
+        summary: "A bit"
+        
